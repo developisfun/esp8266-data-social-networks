@@ -32,7 +32,9 @@
 ## Установка
 Загрузка прошивки с помощью NodeMCU Flasher  https://github.com/nodemcu/nodemcu-flasher
 Скачать можно [тут](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe)
+
 Последнюю версию прошивки можно скачать из папки [build](https://github.com/yuri-afanasiev/esp8266-data-social-networks/tree/master/build)
+
 Также необходимо скачать файлы, которые нужно установить на сервер и на вкладке Дополнительные настройки прописать к ним путь.
 Файлы можно скачать  [тут](https://github.com/yuri-afanasiev/esp8266-vk-api/tree/master/server),[тут](https://github.com/yuri-afanasiev/esp8266-youtube-api/tree/master/server) и [тут](https://github.com/yuri-afanasiev/esp8266-instagram-data/tree/master/server)
  
