@@ -41,7 +41,10 @@
  
 После загрузки создастся точка доступа ESP8266 пароль 12345678 
 На вкладке Настройки WIFI прописуем параметры доступа к wifi сети.Сохраняем и перезагружаем.
-Доступ к web интерфейсу Username admin Password admin
+
+Доступ к web интерфейсу 
+Username admin 
+Password admin
 ![Настройки WIFI](https://raw.githubusercontent.com/yuri-afanasiev/esp8266-data-social-networks/master/doc/13.png)
 
 После каждого сохранения параметров нужно перезагружать систему.
