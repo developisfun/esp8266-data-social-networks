@@ -34,7 +34,7 @@
 Скачать можно [тут](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe)
 Последнюю версию прошивки можно скачать из папки [build](https://github.com/yuri-afanasiev/esp8266-data-social-networks/tree/master/build)
 Также необходимо скачать файлы, которые нужно установить на сервер и на вкладке Дополнительные настройки прописать к ним путь.
-Файлы можно скачать с github [тут](https://github.com/yuri-afanasiev/esp8266-vk-api/tree/master/server),[тут](https://github.com/yuri-afanasiev/esp8266-youtube-api/tree/master/server) и [тут](https://github.com/yuri-afanasiev/esp8266-instagram-data/tree/master/server)
+Файлы можно скачать  [тут](https://github.com/yuri-afanasiev/esp8266-vk-api/tree/master/server),[тут](https://github.com/yuri-afanasiev/esp8266-youtube-api/tree/master/server) и [тут](https://github.com/yuri-afanasiev/esp8266-instagram-data/tree/master/server)
  
  ![11](https://raw.githubusercontent.com/yuri-afanasiev/esp8266-data-social-networks/master/doc/11.png)
  ![12](https://raw.githubusercontent.com/yuri-afanasiev/esp8266-data-social-networks/master/doc/12.png)
@@ -43,5 +43,6 @@
 На вкладке Настройки WIFI прописуем параметры доступа к wifi сети.Сохраняем и перезагружаем.
 Доступ к web интерфейсу Username admin Password admin
 ![Настройки WIFI](https://raw.githubusercontent.com/yuri-afanasiev/esp8266-data-social-networks/master/doc/13.png)
+
 После каждого сохранения параметров нужно перезагружать систему.
  
